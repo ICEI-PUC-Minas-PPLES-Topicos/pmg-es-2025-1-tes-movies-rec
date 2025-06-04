@@ -1,14 +1,19 @@
-# Desenvolvimento de Aplicações Distribuídas
-Repositório para publicação das resoluções dos exercícios de Laboratório das disciplinas de programação da PUC Minas!
+# Trabalho Tópicos em Engenharia de Software
+
+Uma Análise Comparativa de Modelos Colaborativos, Baseados em Conteúdo e Híbridos em Sistemas de Recomendação de Filmes
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno
+- Daniel Estevam
+- Fernando Couto
+- Lucas Lima
+- Tito Chen
+- Vinicius Lima
 
 ## Professor responsável
 
-* Nome completo do professor
+- Leonardo Vilela
 
 ## Instruções de Uso
 
-* Apresentar instruções de como o trabalho pode ser replicado/reproduzido.
+- Executar o notebook passo-a-passo
